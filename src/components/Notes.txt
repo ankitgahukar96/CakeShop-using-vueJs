@@ -1,0 +1,51 @@
+  https://www.axisbank.com/retail/cards/credit-card
+  https://clcinsta.axisbank.co.in/DigitalChannel/TrackCase/Landing.html#
+  	C1-00000019938041-C1
+  
+  
+  url: "https://apifromashu.herokuapp.com/api/login",
+    url: "https://apifromashu.herokuapp.com/api/register",
+       url: "https://apifromashu.herokuapp.com/api/addcake",  == add cake
+    url: "https://apifromashu.herokuapp.com/api/upload",  ===cake upload
+      url: "https://apifromashu.herokuapp.com/api/addcaketocart",
+      var url = "https://apifromashu.herokuapp.com/api/cake/" + cakeid; ===see through id
+
+      
+var url =
+  "https://apifromashu.herokuapp.com/api/searchcakes?q=" + route.query.q;  ===see query
+
+    url: "https://apifromashu.herokuapp.com/api/cakecart",
+    url: "https://apifromashu.herokuapp.com/api/removeonecakefromcart",
+    url: "https://apifromashu.herokuapp.com/api/addcaketocart",
+    url: "https://apifromashu.herokuapp.com/api/removecakefromcart",
+
+
+npm init vue@latest
+npm run dev
+npm install axios
+npm -install vue-router
+{ref,watch,router,route}
+
+v-bind(:)  
+v-model
+v-if
+v-else
+@click
+@change
+api
+propes
+<router-view />
+<router-link />
+
+
+
+filter
+map
+reduce
+
+
+
+
+
+
+
